@@ -112,3 +112,5 @@ This is fully inspired by OpenStack-Helm project workshop at [OpenStack Sydney W
 [OpenStack-Helm Document]: https://docs.openstack.org/openstack-helm/latest/readme.html
 [OpenStack Sydney Workshop]: https://github.com/portdirect/sydney-workshop
 [Armada]: http://armada-helm.readthedocs.io/en/latest/readme.html#
+
+## Test hasn't done properly. Do not use this yet.
