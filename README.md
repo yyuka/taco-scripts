@@ -105,4 +105,6 @@ https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=146290186&
 
 This is fully inspired by OpenStack-Helm project workshop at [OpenStack Sydney Workshop].
 
+# Testing is postponed. 
+
 ## Test hasn't done properly. Do not use this yet.
