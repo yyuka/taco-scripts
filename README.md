@@ -1,5 +1,5 @@
 # TACO Installation Scripts
-# adding some thing 
+# adding some thing here
 This set of scripts let anyone install TACO AIO (All-In-One) on a single machine.
 
 * Kubernetes v1.9.2
