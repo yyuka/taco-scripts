@@ -1,5 +1,3 @@
-<img src="https://github.com/sktelecom-oslab/docs/blob/master/images/taco-logo.png" width="300">
-
 # TACO Installation Scripts
 
 This set of scripts let anyone install TACO AIO (All-In-One) on a single machine.
@@ -106,11 +104,5 @@ https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=146290186&
 ### Acknowledgement 
 
 This is fully inspired by OpenStack-Helm project workshop at [OpenStack Sydney Workshop].
-
-
-[OpenStack-Helm]: https://github.com/openstack/openstack-helm
-[OpenStack-Helm Document]: https://docs.openstack.org/openstack-helm/latest/readme.html
-[OpenStack Sydney Workshop]: https://github.com/portdirect/sydney-workshop
-[Armada]: http://armada-helm.readthedocs.io/en/latest/readme.html#
 
 ## Test hasn't done properly. Do not use this yet.
