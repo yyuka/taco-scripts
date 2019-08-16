@@ -1,5 +1,5 @@
 # This file is a template, and might need editing before it works on your project.
-# Auto DevOps
+# Modified Auto DevOps
 # This CI/CD configuration provides a standard pipeline for
 # * building a Docker image (using a buildpack if necessary),
 # * storing the image in the container registry,
