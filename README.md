@@ -1,5 +1,5 @@
 # TACO Installation Scripts
-# adding
+# adding some thing 
 This set of scripts let anyone install TACO AIO (All-In-One) on a single machine.
 
 * Kubernetes v1.9.2
@@ -103,6 +103,6 @@ https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=146290186&
 
 ### Acknowledgement 
 
-This is fully inspired by OpenStack-Helm project workshop at [OpenStack Sydney Workshop].
+## This is fully inspired by OpenStack-Helm project workshop at [OpenStack Sydney Workshop].
 
 ## Test hasn't done properly. Do not use this yet.
